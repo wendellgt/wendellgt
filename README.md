@@ -3,7 +3,7 @@
 ##
 <!-- comentário -->
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellgt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellgt&theme=github_dark"/>
   
