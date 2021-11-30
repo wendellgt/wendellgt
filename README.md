@@ -8,6 +8,7 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellgt&theme=github_dark"/>-->  
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="ADVPL" height="50" width="120" src="https://github.com/wendellgt/wendellgt/blob/main/imagens/Advpl.png?raw=true">
   <img align="center" alt="PHP" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MSSQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
