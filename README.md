@@ -10,7 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="ADVPL" height="50" width="120" src="https://github.com/wendellgt/wendellgt/blob/main/imagens/Advpl.png?raw=true">
   <img align="center" alt="PHP" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MSSQL" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="MSSQL" height="90" width="90" src="https://github.com/wendellgt/wendellgt/blob/main/imagens/database-mssql.png?raw=true">
+  <img align="center" alt="PowerBI" height="80" width="90" src="https://raw.githubusercontent.com/wendellgt/wendellgt/main/imagens/pbi-PowerBILogo.svg">
   <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
